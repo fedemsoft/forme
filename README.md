@@ -1,3 +1,3 @@
 # forme
 test
-make world
+
